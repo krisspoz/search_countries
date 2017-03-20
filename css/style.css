@@ -1,0 +1,36 @@
+body {
+	background-image: url(https://images.pexels.com/photos/269850/pexels-photo-269850.jpeg?w=940&h=650&auto=compress&cs=tinysrgb);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0 auto;
+}
+h1 {
+	font-family: 'Lato', sans-serif;
+	margin-top: 70px;
+	margin-bottom: 50px;
+	font-weight: bold;
+	color: white;
+}
+button {
+	font-family: 'Lato', sans-serif;
+}
+input {
+	height: 40px;
+	font-family: 'Lato', sans-serif;
+	color: #337ab7;
+	font-weight: bold;
+}
+h2 {
+	font-family: 'Lato', sans-serif;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-weight: bold;
+	color: white;
+}
+ul {
+	font-family: 'Lato', sans-serif;
+	font-weight: bold;
+	color: white;
+	font-size: 20px;
+	list-style-type: none;
+}
